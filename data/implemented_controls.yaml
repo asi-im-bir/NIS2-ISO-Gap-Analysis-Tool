@@ -1,0 +1,41 @@
+controls:
+  - id: CTR-OPS-001
+    name: "Multi-Factor Authentication (MFA) Implementation"
+    owner: "IT Operations Lead"
+    category: "Technological"
+    coverage_percent: 95
+    remediation_required: True
+    remediation_plan: "Address 5% legacy accounts via mandatory migration Q1 2026."
+    target_date: "2026-03-31"
+
+  - id: CTR-OPS-002
+    name: "Annual Staff Training"
+    owner: "Human Resources"
+    category: "People"
+    coverage_percent: 100
+    remediation_required: False
+
+  - id: CTR-DEV-003
+    name: "Application Secure Development Lifecycle (SDLC)"
+    owner: "Development Lead"
+    category: "Technological"
+    coverage_percent: 40
+    remediation_required: True
+    remediation_plan: "Integrate SAST/DAST tools into CI/CD pipeline and mandatory training."
+    target_date: "2026-06-30"
+
+  - id: CTR-ORG-004
+    name: "Business Continuity/DR Plan Tested"
+    owner: "Risk Management"
+    category: "Organizational"
+    coverage_percent: 80
+    remediation_required: True
+    remediation_plan: "Conduct full failover test for Finance system by year-end."
+    target_date: "2025-12-31"
+
+  - id: CTR-OPS-005
+    name: "Formal Risk Assessment Methodology"
+    owner: "CISO"
+    category: "Risk Management"
+    coverage_percent: 100
+    remediation_required: False

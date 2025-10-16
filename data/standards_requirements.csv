@@ -1,0 +1,7 @@
+Standard,Requirement_ID,Requirement_Description,Category,Risk_Weight (1-10)
+ISO27001,A.5.1,Policies for Information Security,Organizational,5
+ISO27001,A.8.2,Privileged Access Rights,Technological,9
+NIS2,NIS2.21.01,Policies on risk analysis and security,Risk Management,8
+NIS2,NIS2.21.02,Incident handling,Incident Mngt,10
+NIS2,NIS2.21.04,Supply chain security,Supply Chain,7
+NIS2,NIS2.21.05,Cryptography and encryption,Technological,9

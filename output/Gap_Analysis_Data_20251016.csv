@@ -1,0 +1,7 @@
+Standard,Requirement_ID,Requirement_Description,Category,Risk_Weight (1-10),Status,max_coverage,Risk_Priority,all_controls
+ISO27001,A.5.1,Policies for Information Security,Organizational,5,MET (100% Coverage),100.0,Low,"CTR-OPS-002, CTR-OPS-005"
+ISO27001,A.8.2,Privileged Access Rights,Technological,9,PARTIAL (Max 95%),95.0,Medium,"CTR-OPS-001, CTR-DEV-003"
+NIS2,NIS2.21.01,Policies on risk analysis and security,Risk Management,8,MET (100% Coverage),100.0,Low,"CTR-ORG-004, CTR-OPS-005"
+NIS2,NIS2.21.02,Incident handling,Incident Mngt,10,MET (100% Coverage),100.0,Low,"CTR-OPS-002, CTR-ORG-004"
+NIS2,NIS2.21.04,Supply chain security,Supply Chain,7,GAP (NO CONTROL MAPPED),0.0,High,N/A
+NIS2,NIS2.21.05,Cryptography and encryption,Technological,9,PARTIAL (Max 40%),40.0,High,CTR-DEV-003
