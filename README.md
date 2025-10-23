@@ -1,8 +1,3 @@
-That's the most crucial step for presenting your project\! A well-structured **`README.md`** file tells the complete story of your project, highlighting your technical skills and the business value of the solution for the Information Security Engineer role.
-
-Here is the complete content for your `README.md` file. Copy this, create the file in your project's root directory (`nis2-iso-gap-tool`), and then commit and push it to GitHub.
-
------
 
 # 🛡️ Automated NIS2 / ISO 27001 Control Gap Analysis Tool
 
