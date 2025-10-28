@@ -71,15 +71,16 @@ The script generates two critical outputs in the `/output` folder:
 2.  **`Gap_Analysis_Report_YYYYMMDD.pdf`:** The formal, prioritized audit summary.
 
 ### Interactive Compliance Dashboard
-
-[Link to your Interactive Version on Tableau Public]
-
-\<iframe
-src="[https://public.tableau.com/app/profile/asiye.birgenc/viz/ComplianceDashboard_17606415015920/Dashboard1]
-width="100%"
-height="800px"
-frameborder="0"\>
-\</iframe\>
+📊 **Outputs and Visualization Interactive Compliance Dashboard**
+<!-- Interactive Compliance Dashboard Embed -->
+<div style="border: 2px solid #e0e0e0; border-radius: 8px; padding: 16px; background-color: #fafafa;">
+  <h3 style="margin-top: 0;">📊 Interactive Compliance Dashboard</h3>
+ 
+  <p style="margin-top: 10px;">
+    🔗 <strong><a href="https://public.tableau.com/app/profile/asiye.birgenc/viz/ComplianceDashboard_17606415015920/Dashboard1" target="_blank" rel="noopener noreferrer">
+    Open Dashboard in Tableau Public (for mobile or fullscreen view)</a></strong>
+  </p>
+</div>
 
 -----
 
