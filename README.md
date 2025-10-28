@@ -75,7 +75,7 @@ The script generates two critical outputs in the `/output` folder:
 [Link to your Interactive Version on Tableau Public]
 
 \<iframe
-src="[PASTE YOUR TABLEAU PUBLIC EMBED URL HERE]"
+src="[https://public.tableau.com/app/profile/asiye.birgenc/viz/ComplianceDashboard_17606415015920/Dashboard1]
 width="100%"
 height="800px"
 frameborder="0"\>
